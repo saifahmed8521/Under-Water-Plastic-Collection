@@ -1,0 +1,6 @@
+import streamlit as st
+import streamlit.components.v1 as components
+st.title(':red[3D] Model')
+components.html("""<div class="sketchfab-embed-wrapper"> <iframe title="Under Ground Plastic Cleaning Vehicle" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/5bbaaacf5785467fb8eb66635211cc6f/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/under-ground-plastic-cleaning-vehicle-5bbaaacf5785467fb8eb66635211cc6f?utm_medium=embed&utm_campaign=share-popup&utm_content=5bbaaacf5785467fb8eb66635211cc6f" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Under Ground Plastic Cleaning Vehicle </a> by <a href="https://sketchfab.com/saifahmed8521?utm_medium=embed&utm_campaign=share-popup&utm_content=5bbaaacf5785467fb8eb66635211cc6f" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> saifahmed8521 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=5bbaaacf5785467fb8eb66635211cc6f" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+""")
