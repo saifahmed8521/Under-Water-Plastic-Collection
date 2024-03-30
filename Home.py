@@ -12,3 +12,7 @@ st.image('fishes.jpg')
 st.title(":red[Why] It Matters")
 st.markdown("It matters because our oceans are suffocating under a deluge of plastic, a crisis that threatens the very essence of life on Earth. From majestic marine mammals to delicate coral reefs, no corner of our blue planet is spared. Yet, in this dire struggle, lies a chance for redemption. By confronting this crisis head-on, we're not just saving marine life; we're rewriting the narrative of our planet's future. It's a battle against time, against apathy, against the forces of destruction. But with every piece of plastic removed, we're breathing life back into the veins of our oceans, igniting a beacon of hope that echoes across generations. So, yes, it matters more than words can convey. It's the ultimate showdown between despair and redemption, and we're the protagonists in this epic tale of salvation.")
 
+st.title("Our :green[Idea]")
+st.markdown("Our project utilizes innovative technologies to clean up underwater garbage")
+st.markdown("By integrating 3D modeling and artificial intelligence, our solution offers a sustainable approach to mitigating ocean pollution.")
+st.markdown("Through this initiative, we aim to preserve marine ecosystems and promote sustainable development")
