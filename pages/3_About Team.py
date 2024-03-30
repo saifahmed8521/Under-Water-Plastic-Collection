@@ -42,7 +42,7 @@ with col3:
 unsafe_allow_html=True)
    
 with col4:
-   st.header("LALA")
+   st.header("NEERAJ")
    st.markdown('Delhi Technological University')
    st.markdown(" ")
    st.markdown(" ")
